@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+select option:checked {
+  background-color: #e5e7eb; 
+  color: black;
+}
